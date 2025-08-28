@@ -14,7 +14,7 @@ Any data handled by the Bot is managed in accordance with the underlying Sapphir
 Crave does not share data with third parties. However, the Bot runs on Discord’s infrastructure and is subject to Discord’s own privacy and data handling policies.
 
 ## 4. User Rights
-Users can remove the Bot from their server at any time. If you have questions or concerns, contact us via our Discord server: https://discord.gg/mutuals
+Users can remove the Bot from their server at any time. If you have questions or concerns, contact us via our Discord server: https://discord.gg/editing
 
 ## 5. Changes
 We may update this policy as needed. Continued use of the Bot indicates acceptance of any changes.
