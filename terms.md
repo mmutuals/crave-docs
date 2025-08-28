@@ -14,7 +14,7 @@ You may use Crave in accordance with Discord's Terms of Service and Community Gu
 We reserve the right to restrict or remove access to the Bot at any time, for any reason, including abuse, misuse, or violation of these Terms.
 
 ## 4. Support
-If you need assistance or have any questions, you can contact us via our Discord server: https://discord.gg/mutuals
+If you need assistance or have any questions, you can contact us via our Discord server: https://discord.gg/editing
 
 ## 5. Changes
 We reserve the right to modify these Terms at any time. Continued use of the Bot after changes constitutes acceptance of the updated Terms.
